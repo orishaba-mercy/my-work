@@ -1,0 +1,39 @@
+.containerA{
+    
+    
+   background-image: url(html.jpg );
+   background-repeat: no-repeat;
+   width: 100%;
+   background-size: cover;
+   height: 600px;
+
+}
+
+.container{
+    float: right;
+    margin-right: 5%;
+    line-height: 80px;
+}
+a{
+    text-decoration-line: none;
+    padding: 20px;
+}
+.containerb{
+    padding: 100px;
+    
+}
+
+.button{
+    width: 60px;
+    border-radius: 20px;
+    background-color: rgb(33, 33, 119);
+    
+}
+.button1{
+    border-radius: 80px;
+    line-height: 30px;
+    color: purple;
+    background-color: bisque;
+   
+    
+}
